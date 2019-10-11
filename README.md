@@ -1,11 +1,12 @@
-# code-ate-error-messages
+# refactor-jquery
 
-This is code that I ran into that cause some odd functionality because it was "eating" the error message that came from the backend as a string of HTML.
+This is code that I ran into where jQuery was used and could be refactored for more testable code.
 
 The code here is proof of the concepts shown in the article.
 
 To run the tests ...
 
 ```
+$ npm install
 $ jasmine
 ```
